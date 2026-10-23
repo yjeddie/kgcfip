@@ -6,7 +6,7 @@ compatibility_date = "2026-03-09"
 # 这里的 id 和 preview_id 在本地开发时可以是任意字符串
 [[kv_namespaces]]
 binding = "IP_KV"
-id = "你自己的KV ID"
+id = "CF_ip"
 preview_id = "local_kv_preview_id"
 
 [vars]
